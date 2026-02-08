@@ -1,0 +1,5 @@
+{
+  "name": "MediProto Builder",
+  "description": "A visual editor and HTML generator for medical rehabilitation protocols using AI for content parsing.",
+  "requestFramePermissions": []
+}
